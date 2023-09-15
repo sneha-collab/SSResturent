@@ -477,3 +477,36 @@
     padding-right: 0;
     border-right: none;
 }
+wraps{
+    width: 500;
+    height: 500;
+    border: 2px solid red;
+    margin: 30px auto;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+table{font-size: 30px;}
+td{
+    padding: 10px 20px 0px 0px;
+
+}
+.txt{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
+.txtarea{
+    width: 200px;
+    height:120px;
+    border-radius: 5px;
+}
+
+.btn{
+    border-radius: 5px;
+    font-size: 20px;
+    color: darkblue;
+    box-sizing: border-box;
+}
