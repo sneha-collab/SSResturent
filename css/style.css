@@ -483,16 +483,18 @@ wraps{
     border: 2px solid red;
     margin: 30px auto;
 }
-h1{
+h2{
     font-size: 50px;
     color: white;
     text-align: center;
+    border-bottom:  solid silver;
 }
 table{font-size: 30px;}
 td{
     padding: 10px 20px 0px 0px;
 
 }
+
 .txt{
     width: 200px;
     height: 30px;
@@ -502,6 +504,7 @@ td{
     width: 200px;
     height:120px;
     border-radius: 5px;
+    background: #181717;
 }
 
 .btn{
